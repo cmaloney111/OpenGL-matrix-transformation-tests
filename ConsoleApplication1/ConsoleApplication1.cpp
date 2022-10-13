@@ -1,5 +1,3 @@
-// HERIBERTO
-// JACKSON
 #include <cstdlib>
 #include <iostream>
 #include <GL/glut.h>
